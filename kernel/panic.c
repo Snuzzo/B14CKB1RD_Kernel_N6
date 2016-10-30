@@ -22,6 +22,7 @@
 #include <linux/sysrq.h>
 #include <linux/init.h>
 #include <linux/nmi.h>
+#include <linux/coresight.h>
 #include <linux/console.h>
 
 #define PANIC_TIMER_STEP 100
